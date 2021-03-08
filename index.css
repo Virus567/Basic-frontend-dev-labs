@@ -6,8 +6,65 @@ body{
     position: absolute;
     width: 1300px;
     height: 2202px;
-    left: calc(50% - 1300px/2);
-top: -7px;
+    margin-top:93px;
+    margin-left:calc(50% - 1300px/2);
+    
+}
+.logo{
+    margin-top: 26px;
+    margin-left: 37px;
+}
+.kvadrat{
+    position: absolute;
+    width: 110px;
+    height: 80px;
+    margin-left: 547px;
+    top: 0px;
+    background: #EA4737;
+}
+.shape{
+    width: 12px;
+    height: 20px;
+    margin-left:92px;
+    margin-top: 53px; 
+}
+.lupa{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: 1015px;
+    margin-top: 32.45px;
+}
+.Oval{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    margin-left: 1075px;
+    margin-top: 19px;
+}
+.upOval{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    margin-left: 1105px;
+    margin-top: 13px;
+}
+.t8{
+    position: absolute;
+    width: 18px;
+    height: 16px;
+    margin-left: 1264px;
+    margin-top: -75px;
 
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #FFFFFF;
 
 }
